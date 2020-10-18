@@ -1,0 +1,15 @@
+This is the implementation of GOSIM: A Multi-scale Iterative Multiple-point Statistics Algorithm with Global Optimization.
+
+Author: Liang Yang
+
+Current version was only tested on Ubuntu 14.10 (Linux). 
+
+If you want to use the code, add the source files and header files to an integrated development environment (IDE), such as CodeBlocks.
+
+The entrance is in "main.cpp".
+
+Just uncomment the part you need to use.
+
+Please contact me if you have any suggestions, comments or find any bugs.
+
+E-mail: 1157983586@qq.com
